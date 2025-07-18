@@ -1,0 +1,68 @@
+agent/hf_token.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch
+*.pt
+*.pth
+*.onnx
+
+# FastAPI/REST API
+# (No specific files, but include common web artifacts)
+*.log
+instance/
+*.db
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# dotenv
+.env
+.env.*
+
+# Test/coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.pyc
+*.pyo
+*.pyd
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+
+# Others
+*.bak
