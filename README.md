@@ -1,4 +1,4 @@
-# auv_llm_agent
+# AUV LLM Agent
 
 A Python module for integrating Large Language Models (LLMs) into Autonomous Underwater Vehicle (AUV) mission planning and configuration.
 
